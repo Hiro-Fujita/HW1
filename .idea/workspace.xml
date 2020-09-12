@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c37590fe-8329-41e1-b1b1-2369c7cae2e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hNrDz7gobH4iYzltPF8fymmyKf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://web.njit.edu/~kwilliam/fall2020is117/index.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c37590fe-8329-41e1-b1b1-2369c7cae2e4" name="Default Changelist" comment="" />
+      <created>1599862274582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599862274582</updated>
+      <workItem from="1599862275633" duration="1504000" />
+      <workItem from="1599863794319" duration="1379000" />
+      <workItem from="1599865259293" duration="8000" />
+      <workItem from="1599865313419" duration="1753000" />
+      <workItem from="1599871941650" duration="1293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="509" y="296" width="816" height="588" key="#Deployment" timestamp="1599880051590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="509" y="296" width="816" height="588" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1599880051590" />
+    <state x="1016" y="169" key="#SSH_Configurations" timestamp="1599872257065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1016" y="169" key="#SSH_Configurations/0.0.1920.1040@0.0.1920.1040" timestamp="1599872257065" />
+    <state x="1296" y="301" key="ftp.server.browser" timestamp="1599864478250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1296" y="301" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1599864478250" />
+    <state x="1310" y="415" key="publish.login" timestamp="1599862738781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1310" y="415" key="publish.login/0.0.1920.1040@0.0.1920.1040" timestamp="1599862738781" />
+  </component>
+</project>
